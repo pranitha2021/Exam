@@ -1,6 +1,6 @@
 import React, { useEffect, useReducer } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { fetchProducts } from '../redux/productSlice';
+import { fetchProducts } from '../Redux/productSlice';
 import withSpinner from './withSpinner';
 import "./ProductComparision.css"
 
