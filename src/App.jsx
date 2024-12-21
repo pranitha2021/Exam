@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 import { Provider } from 'react-redux';
 import { ThemeContext, ThemeProvider } from './themeContext';
-import Store from './Redux/Store';
+import Store from './Redux/store';
 import ProductComparision from './Components/ProductComparision';
 
 function App() {
