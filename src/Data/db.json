@@ -1,0 +1,32 @@
+{
+    "products":[
+    {
+        "id":1,
+        "name":"MacBook Air",
+        "price":60000,
+        "features":"M1 Chip",
+        "rating":4
+    },
+    {
+        "id":2,
+        "name":"MacBook Pro",
+        "price":80000,
+        "features":"M2 Chip",
+        "rating":4.1
+    },
+    {
+        "id":3,
+        "name":"MacBook Mini",
+        "price":50000,
+        "features":"M3 Chip",
+        "rating":3.9
+    },
+    {
+        "id":4,
+        "name":"MacBook M4",
+        "price":130000,
+        "features":"M4 Chip",
+        "rating":4.1
+    }
+]
+}

@@ -1,0 +1,9 @@
+.productsDisplay{
+    display: flex;
+    flex-direction: column;
+}
+
+.productsDisplay .product-list{
+    display: flex;
+    justify-content: space-around;
+}
